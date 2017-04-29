@@ -1,0 +1,54 @@
+*{background-color: black;}
+
+body{
+text-align: center;
+font-family: verdana;
+}
+
+header{
+  font-family: verdana;
+  font-weight:normal;
+  font-size:50px;
+  color: white;
+  margin:20px;
+}
+
+.downloadlink{
+  margin: 21px;
+}
+
+a{
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+  margin: 20px;
+}
+
+.content{
+margin:30px;
+}
+.content h2{
+  color:white;
+  font-size:42px;
+  font-weight: 300;
+}
+
+.content p{
+  font-size: 21px;
+  color:gray;
+}
+
+.comingsoon{
+  margin:20px;
+}
+
+.comingsoon a{
+  margin:30px;
+}
+#footer h3{
+  text-align: right;
+  color: gray;
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 21px;
+}
